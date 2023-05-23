@@ -1,0 +1,9 @@
+com\xyzbank\browserfactory\ManageBrowser.class
+com\xyzbank\utility\Utility$1.class
+com\xyzbank\pages\AccountPage.class
+com\xyzbank\pages\OpenAccountPage.class
+com\xyzbank\pages\AddCustomerPage.class
+com\xyzbank\pages\BankManagerLoginPage.class
+com\xyzbank\utility\Utility.class
+com\xyzbank\pages\CustomerLoginPage.class
+com\xyzbank\propertyreader\PropertyReader.class

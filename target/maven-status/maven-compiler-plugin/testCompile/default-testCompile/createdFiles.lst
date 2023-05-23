@@ -1,0 +1,9 @@
+com\xyzbank\steps\OpenAccountPageSteps.class
+com\xyzbank\steps\WithdrawalPageSteps.class
+com\xyzbank\runner\TestRegressionRunner.class
+com\xyzbank\runner\TestSmokeRunner.class
+com\xyzbank\Hooks.class
+com\xyzbank\steps\CustomerLoginAndLogoutPageSteps.class
+com\xyzbank\runner\TestSanityRunner.class
+com\xyzbank\steps\DepositPageSteps.class
+com\xyzbank\steps\AddCustomerPageSteps.class
